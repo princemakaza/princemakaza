@@ -64,7 +64,6 @@ const prince = {
       "Java",
       "Kotlin",
       "Flask",
-      "FastAPI",
       "Django",
     ],
     mobile: [
@@ -111,22 +110,19 @@ const prince = {
   ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -199,17 +195,7 @@ const prince = {
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Latest Project</strong></h3>
-      <p align="center">
-        <a href="https://github.com/princemakaza/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=princemakaza&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
+       <td width="50%">
       <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
         <a href="https://github.com/princemakaza">
@@ -217,13 +203,9 @@ const prince = {
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>&nbsp;</strong></h3>
-      <p align="center">
-        &nbsp;
-      </p>
-    </td>
+   
   </tr>
+  
 </table>
 
 <!-- Contribution Graph Section -->
@@ -242,18 +224,6 @@ const prince = {
 </div>
 
 <!-- Trophies Section -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/princemakaza">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=princemakaza&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=princemakaza&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=princemakaza&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/daytonaio/daytona">
