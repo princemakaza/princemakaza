@@ -35,58 +35,40 @@ const prince = {
   name: "Prince Z Makaza",
   location: "Harare, Zimbabwe",
   role: "Full Stack Software Engineer | Mobile & Cloud Specialist",
+
   mission:
     "Building scalable, intelligent, and user-centric digital solutions across mobile, web, and cloud platforms",
+
   specialties: [
-    "Mobile App Development",
-    "Web Application Development",
-    "Cloud Computing",
-    "IoT Solutions",
-    "FinTech & Payment Integrations",
-    "Chatbots & USSD Systems",
+    "Mobile Apps", "Web Apps", "Cloud Computing",
+    "IoT Solutions", "FinTech & Payments",
+    "Chatbots & USSD Systems"
   ],
+
   expertise: {
-    frontend: [
-      "Flutter",
-      "Jetpack Compose",
-      "React.js",
-      "Vue.js",
-      "Next.js",
-      "TypeScript",
-      "JavaScript",
-      "HTML/CSS",
-      "Tailwind CSS",
-    ],
-    backend: [
-      "Node.js",
-      "Express.js",
-      "Spring Boot",
-      "Java",
-      "Kotlin",
-      "Flask",
-      "Django",
-    ],
-    mobile: [
-      "Flutter",
-      "Android (Java & Kotlin)",
-      "Cross-platform UI/UX Design",
-    ],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase Firestore"],
-    cloud: ["AWS", "Firebase", "Docker", "Supabase"],
-    integrations: [
-      "Paynow API",
-      "WhatsApp Chatbots",
-      "USSD Applications",
-      "REST APIs",
-      "PDF Generation (PDFKit, Puppeteer)",
-    ],
+    frontend:
+      "Flutter • Jetpack Compose • React • Vue • Next.js • TypeScript • JavaScript • HTML/CSS • Tailwind",
+
+    backend:
+      "Node.js • Express • Spring Boot • Java • Kotlin • Flask • Django",
+
+    mobile:
+      "Flutter • Android (Java & Kotlin) • Cross-platform UI/UX",
+
+    databases:
+      "PostgreSQL • MongoDB • MySQL • Firebase Firestore",
+
+    cloud:
+      "AWS • Firebase • Docker • Supabase",
+
+    integrations:
+      "Paynow API • WhatsApp Bots • USSD • REST APIs • PDFKit • Puppeteer",
   },
-  currentlyLearning: [
-    "Advanced Cloud Architecture",
-    "AI-powered Applications",
-    "Scalable System Design",
-  ],
+
+  currentlyLearning:
+    "Advanced Cloud Architecture • AI-powered Applications • Scalable System Design",
 };
+
 ```
 
 <br>
