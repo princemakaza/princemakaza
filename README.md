@@ -12,13 +12,14 @@
   </a> -->
 
 <!-- <a href="https://wakatime.com/@f7004e57-3fc2-4dbc-93dd-1b52cdb2cd9f"><img src="https://wakatime.com/badge/user/f7004e57-3fc2-4dbc-93dd-1b52cdb2cd9f.svg" alt="Total time coded since Aug 19 2025" /></a> -->
-  
+
   <!-- <img src="https://komarev.com/ghpvc/?username=princemakaza&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="princemakaza" /> -->
 </div>
 
 <hr>
 
 <!-- About Me Section -->
+
 ## 🧠 About Me
 
 <div align="center">
@@ -30,25 +31,69 @@
 </div>
 
 ```typescript
-const wilson = {
-  location: "Zimbabwe",
-  role: "Software Engineer & Tech Innovator",
-  specialties: ["Mobile Development", "Web Development", "AI/ML", "AR/XR"],
-  mission: "Building futuristic applications that redefine digital experiences",
+const prince = {
+  name: "Prince Z Makaza",
+  location: "Harare, Zimbabwe",
+  role: "Full Stack Software Engineer | Mobile & Cloud Specialist",
+  mission:
+    "Building scalable, intelligent, and user-centric digital solutions across mobile, web, and cloud platforms",
+  specialties: [
+    "Mobile App Development",
+    "Web Application Development",
+    "Cloud Computing",
+    "IoT Solutions",
+    "FinTech & Payment Integrations",
+    "Chatbots & USSD Systems",
+  ],
   expertise: {
-    frontend: ["Flutter", "React", "NextJs", "VueJs", "TypeScript", "HTML/CSS", "Tailwind"],
-    backend: ["Node.js", "Express.js", "FastAPI", "Laravel", "Flask", "Spring Boot"],
-    ai: ["TensorFlow", "PyTorch", "OpenAI APIs", "On-device ML"],
+    frontend: [
+      "Flutter",
+      "Jetpack Compose",
+      "React.js",
+      "Vue.js",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS",
+      "Tailwind CSS",
+    ],
+    backend: [
+      "Node.js",
+      "Express.js",
+      "Spring Boot",
+      "Java",
+      "Kotlin",
+      "Flask",
+      "FastAPI",
+      "Django",
+    ],
+    mobile: [
+      "Flutter",
+      "Android (Java & Kotlin)",
+      "Cross-platform UI/UX Design",
+    ],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase Firestore"],
     cloud: ["AWS", "Firebase", "Docker", "Supabase"],
-    geo: ["Google Maps", "MapBox", "ARCore", "Geospatial APIs"]
+    integrations: [
+      "Paynow API",
+      "WhatsApp Chatbots",
+      "USSD Applications",
+      "REST APIs",
+      "PDF Generation (PDFKit, Puppeteer)",
+    ],
   },
-  currentlyLearning: ["Edge ML", "Web3", "Advanced XR Development"]
+  currentlyLearning: [
+    "Advanced Cloud Architecture",
+    "AI-powered Applications",
+    "Scalable System Design",
+  ],
 };
 ```
 
 <br>
 
 <!-- Technology Arsenal Section -->
+
 ## ⚡ Technology Arsenal
 
 <div align="center">
@@ -82,6 +127,7 @@ const wilson = {
 </div>
 
 <!-- Featured Projects Section -->
+
 ## 🔥 Featured Projects
 
 <table>
@@ -112,6 +158,7 @@ const wilson = {
 </table>
 
 <!-- GitHub Stats Section -->
+
 ## 📊 GitHub Stats
 
 <table width="100%">
@@ -169,8 +216,8 @@ const wilson = {
   </tr>
 </table>
 
-
 <!-- Contribution Graph Section -->
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -185,6 +232,7 @@ const wilson = {
 </div>
 
 <!-- Trophies Section -->
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -210,6 +258,7 @@ const wilson = {
 </div>
 
 <!-- Connect Section -->
+
 ## 🤝 Let's Connect
 
 <div align="center">
