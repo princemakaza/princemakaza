@@ -207,16 +207,16 @@ const prince = {
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wilson-kumalo-733550243/">
+  <a href="https://www.linkedin.com/in/prince-z-makaza-355263215/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:princemakaza900@gmail.com">
+  <a href="mailto:zpmakaza@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wilsonkumalo.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://ko-fi.com/X8X01AFOO8">
+  <a href="https://ko-fi.com/princemakaza">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
 </div>
